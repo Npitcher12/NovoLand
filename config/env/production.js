@@ -148,9 +148,9 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     cors: {
-      allowOrigins: [
-        'https://novoland.osc-fr1.scalingo.io',
-      ]
+      // allowOrigins: [
+      //   'https://example.com',
+      // ]
     },
 
   },
